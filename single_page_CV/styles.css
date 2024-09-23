@@ -1,0 +1,65 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+}
+
+hr.rounded {
+    border: 0;
+    height: 2px;
+    background: #007bff;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+/* Header Styles */
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5em;
+}
+
+h4 {
+    text-align: center;
+    color: #666;
+    font-size: 1.2em;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 1em;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Section Titles */
+h4 {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+/* Contact Info */
+p {
+    text-align: center;
+}
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #888;
+    margin-top: 20px;
+}
